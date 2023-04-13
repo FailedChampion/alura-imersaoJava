@@ -1,0 +1,53 @@
+Desafios desta aula
+1
+Consumir o endpoint de filmes mais populares da API do IMDB. Procure também, na documentação da API
+do IMDB, o endpoint que retorna as melhores séries e o que retorna as séries mais populares.
+(DONE!)
+
+2
+Usar sua criatividade para deixar a saída dos dados mais bonitinha: usar emojis com código UTF-8,
+mostrar a nota do filme como estrelinhas, decorar o terminal com cores, negrito e itálico
+usando códigos ANSI, e mais!
+(DONE!)
+
+
+Colocar a chave da API do IMDB em algum lugar fora do código como um arquivo de configuração
+ p. ex, um arquivo .properties) ou uma variável de ambiente.
+ (DONE!)
+
+ ALL DONE!!!!!!!!!!!!!!!!!!!!!!!!
+
+2
+
+Desafios
+Criar diretório de saída das imagens, se ainda não existir. Confira a resolução do desafio aqui!
+https://youtu.be/BaHcmw5mDRQ
+(DONE!!)
+
+Centralizar o texto na figurinha. Confira a resolução do desafio aqui!
+https://youtu.be/_roEvlyPweg
+(DONE??)
+
+Colocar outra fonte como a Comic Sans ou a Impact, a fonte usada em memes. Confira a resolução do desafio aqui!
+https://youtu.be/eBXdpUy72as
+(DONE!)
+
+Colocar contorno (outline) no texto da imagem. Confira a resolução do desafio aqui!
+https://youtu.be/eBXdpUy72as
+(DONE!!)
+ALL DONE!
+
+mongodb+srv://guipimenta08:<password>@cluster0.indkm9j.mongodb.net/?retryWrites=true&w=majority
+
+
+TODO Transformar a classe que representa os conteúdos em um Record, disponível a partir do Java 16. Confira a resolução do desafio aqui! (DONE!)
+TODO Criar as suas próprias exceções e usá-las na classe que implementa o cliente HTTP. Confira a resolução do desafio aqui! (DONE!)
+TODO Usar recursos do Java 8 e posterior, como Streams e Lambdas, para mapear uma lista em uma outra. Confira a resolução do desafio aqui! (IMPOSSIBLE)
+TODO Criar uma Enum que une, como configurações, a URL da API e o extrator utilizado. Confira a resolução do desafio aqui! (DONE!)
+
+Caso a API do IMDb esteja instável ou fora do ar, você pode utilizar os seguintes endereços alternativos:
+
+ "https://raw.githubusercontent.com/alura-cursos/imersao-java-2-api/main/TopMovies.json"
+ "https://raw.githubusercontent.com/alura-cursos/imersao-java-2-api/main/TopTVs.json"
+ "https://raw.githubusercontent.com/alura-cursos/imersao-java-2-api/main/MostPopularMovies.json"
+ "https://raw.githubusercontent.com/alura-cursos/imersao-java-2-api/main/MostPopularTVs.json"
